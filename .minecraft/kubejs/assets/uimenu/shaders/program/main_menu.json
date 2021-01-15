@@ -1,0 +1,33 @@
+{
+	"blend": {
+		"func": "add",
+		"srcrgb": "one",
+		"dstrgb": "zero"
+	},
+	"vertex": "kubejsui:none",
+	"fragment": "uimenu:main_menu_space",
+	"attributes": [
+		"Position"
+	],
+	"samplers": [
+	],
+	"uniforms": [
+		{
+			"name": "time",
+			"type": "float",
+			"count": 1,
+			"values": [
+				0.0
+			]
+		},
+		{
+			"name": "resolution",
+			"type": "float",
+			"count": 2,
+			"values": [
+				1.0,
+				1.0
+			]
+		}
+	]
+}
