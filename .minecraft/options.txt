@@ -33,8 +33,8 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","mod_resources","programer_art","kubejs:resource_pack"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","mod_resources","programer_art","kubejs:resource_pack","file/Ordana\u0027s Blackstone Tools.zip"]
+incompatibleResourcePacks:["file/Ordana\u0027s Blackstone Tools.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
